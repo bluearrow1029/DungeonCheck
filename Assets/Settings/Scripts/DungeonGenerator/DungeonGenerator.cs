@@ -24,6 +24,6 @@ public class DungeonGenerator : SimpleRandomWalkDungeonGenerator
 
     private void CreateRooms()
     {
-        var roomList = ProceduralGenerationAlgorithm.BinarySpacePartitioning();
+        //var roomList = ProceduralGenerationAlgorithm.BinarySpacePartitioning();
     }
 }
